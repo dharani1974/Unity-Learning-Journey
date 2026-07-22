@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### Core Components of Every Game
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 👨‍💻 Types of Game Developers
+## Types of Game Developers
 
 ### Gameplay Programmer
 Develops game logic such as:
@@ -71,7 +71,7 @@ Connects artists with programmers and helps integrate art into the game.
 
 ---
 
-## 📝 Homework
+## Homework
 
 ### Watch
 - Watch one beginner-friendly video explaining **How a Game Engine Works**.
@@ -85,10 +85,10 @@ Choose one of your favorite games (Cyberpunk 2077, The Witcher 3, Where Winds Me
 - Physics
 - UI Elements
 - Gameplay Systems
-
+✅
 ---
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 - Every game is made up of multiple systems working together.
 - A game engine combines graphics, physics, audio, scripting, animation, and UI into one development environment.
